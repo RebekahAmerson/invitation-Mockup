@@ -1,5 +1,5 @@
 #outerShell{
-  height: 600px;
+  height: 590px;
   width: 400px;
   background: #00425C;
   margin:auto;
@@ -8,7 +8,7 @@
 
 #stars{
   width: 380px;
-  margin:10px;
+  margin: 10px;
   z-index: 1;
 }
 
